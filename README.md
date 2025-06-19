@@ -1,5 +1,3 @@
-# IoT_Network_Signal_Generation_Using_LLMs
-
 # IoT‑Network‑Signal‑Generation using LLMs
 
 <p align="center">
