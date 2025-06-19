@@ -1,0 +1,7 @@
+torch
+six
+scapy
+numpy
+packaging
+flowcontainer
+tshark

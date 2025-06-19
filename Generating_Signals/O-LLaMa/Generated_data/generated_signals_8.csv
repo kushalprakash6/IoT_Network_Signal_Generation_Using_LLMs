@@ -1,0 +1,101 @@
+Source,Source port,Destination,Destination port,Protocol,Length,Info
+10.42.0.49,61385.0,99.81.71.200,443.0,TCP,54,"61385 > 443 [ACK] Seq=141772 Ack=88272 Win=5840 Len=0, cache flush 0.north-america.pool"
+10.42.0.13,61837.0,10.42.0.49,52432.0,TCP,54,61837 > 52432 [ACK] Seq=496 Ack=1344 Win=65535 Len=0 1016018923 TSecr=0 S
+10.42.0.49,52432.0,10.42.0.13,61728.0,HTTP,135,"HTTP/1.1 200 OK (application/pairing+tlv8) (application/pairing+tlv8))-Orderformed.org)))-Order-Orderet], cache flush"
+10.42.0.49,52432.0,10.42.0.13,58555.0,HTTP,135,"HTTP/1.1 200 OK (application/pairing+tlv8), cache flush 10.42.0.28, cache flush 203.107.6.88 Source Port: 12"
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,305,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush"
+10.42.0.13,50764.0,10.42.0.49,52432.0,TCP,54,50764 > 52432 [ACK] Seq=496 Ack=1781 Win=65535 Len=0 1726107963 TSecr=0 SACK
+10.42.0.28,55989.0,34.243.103.189,443.0,TLSv1.2,331,"Application Data (SNI=euw1-device-cloudgateway.iot.i.tplinknbu.com), Application Data Application Data Application Data Application Data Application"
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,291,"Standard query response 0x0000 TXT, cache flush SRV, cache flush 0 0 52432 Meross_Smart_Plug.local A, cache flush 10.42.0.49 AAAA, cache flush"
+10.42.0.49,61388.0,54.216.1.110,443.0,TCP,54,"61388 > 443 [ACK] Seq=217106 Ack=135749 Win=5180 Len=0], cache flush 129.14"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local, """
+10.42.0.13,59428.0,10.42.0.28,80.0,TCP,78,"59428 > 80 [SYN, ECE, CWR, AE] Seq=0 Win=65535 Len=0 MSS=1460 WS=64 TSval=2640155142 TSec"
+10.42.0.13,58648.0,10.42.0.49,52432.0,TCP,54,"58648 > 52432 [ACK] Seq=163 Ack=221 Win=65535 Len=0 [TCP Retransmission], cache flush 193108819"
+10.42.0.49,61395.0,99.81.71.200,443.0,TLSv1.2,539,Application Data.north-america.pool.ntp.org A 142.4.192.253 A 179.63.106.10
+10.42.0.13,50575.0,10.42.0.49,52432.0,TCP,54,50575 > 52432 [ACK] Seq=497 Ack=1782 Win=65535 Len=0162 164.111.226.2
+10.42.0.49,52432.0,10.42.0.13,50321.0,TCP,54,"52432 > 50321 [FIN, ACK] Seq=1781 Ack=497 Win=5344 Len=016262870 Len=0"
+10.42.0.49,61395.0,99.81.71.200,443.0,TLSv1.2,539,"Application Data.iot.i.tplinknbu.com, Application Data, Application Data.north-america.pool.ntp.org A 2"
+10.42.0.49,52432.0,10.42.0.13,50509.0,TCP,54,[TCP Keep-Alive ACK] 52432 > 50509 [ACK] Seq=1781 Ack=496 Win=5345 Len=02162035 Len=
+10.42.0.13,57034.0,10.42.0.28,80.0,TCP,54,57034 > 80 [ACK] Seq=1 Ack=1 Win=65535 Len=0 [TCP PDU reassembled in 9257] 9987 > 80 [ACK] Seq
+10.42.0.13,61783.0,10.42.0.49,52432.0,HTTP,216,"POST /pair-verify HTTP/1.1 (application/pairing+tlv8))), cache flush 10.42.0.49 Port: 52432.0 Protocol: TCP Length:"
+10.42.0.49,61388.0,54.216.1.110,443.0,TCP,54,61388 > 443 [ACK] Seq=214386 Ack=133249 Win=5702 Len=0 fe80::4ae1:e9ff:fe
+10.42.0.49,52432.0,10.42.0.13,62576.0,TCP,54,"52432 > 62576 [FIN, ACK] Seq=1781 Ack=497 Win=5344 Len=01b3-TCP Retransmission],"
+10.42.0.28,58272.0,54.170.92.104,443.0,TCP,54,"58272 > 443 [ACK] Seq=122280 Ack=51594 Win=2782 Len=0,TCP PDU reassembled in 478"
+10.42.0.13,51066.0,10.42.0.28,80.0,TCP,54,"51066 > 80 [ACK] Seq=482 Ack=199 Win=65535 Len=02 [TCP PDU reassembled in 13707], cache flush 104."
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,270,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_S"
+10.42.0.13,59693.0,10.42.0.49,52432.0,TCP,54,"59693 > 52432 [ACK] Seq=163 Ack=221 Win=65535 Len=0241TCP Keep-Alive],6439bcf79"
+10.42.0.49,52432.0,10.42.0.13,50983.0,HTTP,135,"HTTP/1.1 200 OK (application/pairing+tlv8)-application/pairing+tlv8))) (application/pairing+tlv8), Application/pairing+"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,270,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_S"
+10.42.0.49,61389.0,54.216.1.110,443.0,TLSv1.2,123,Application Data.north-america.pool.ntp.
+10.42.0.13,62461.0,10.42.0.49,52432.0,TCP,54,62461 > 52432 [ACK] Seq=497 Ack=1782 Win=65535 Len=01160 WS=64 TSval=13237501
+10.42.0.13,59830.0,10.42.0.49,52432.0,TCP,54,"59830 > 52432 [ACK] Seq=496 Ack=1344 Win=65535 Len=01 [TCP Keep-Alive]]],ACK].4"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local, """
+10.42.0.28,55989.0,34.243.103.189,443.0,TLSv1.2,283,"Application Data (SNI=euw1-device-cloudgateway.iot.i.tplinknbu.com), Application Data Application Data Application Data Application Data Application Data Application Data Application Data Application"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local, """
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,ff02::fb,5353.0,MDNS,311,"Standard query response 0x0000 TXT, cache flush SRV, cache flush 0 0 52432 Meross_Smart_Plug.local A, cache flush 10.42.0.49 AAAA"
+10.42.0.28,55988.0,34.241.185.170,443.0,TLSv1.2,123,"Application Data, Application Data"
+10.42.0.28,55989.0,34.243.103.189,443.0,TCP,54,55989 > 443 [ACK] Seq=19395 Ack=11829 Win=2230 Len=0 [TCP PDU reassembled in 48801]
+10.42.0.49,61388.0,54.216.1.110,443.0,TLSv1.2,123,Application Data
+10.42.0.49,61386.0,54.216.1.110,443.0,TLSv1.2,555,Application Data.amazon.pool.ntp.org.iot.i.tplinknbu.com A 149.56.19.163 A
+10.42.0.49,52432.0,10.42.0.13,62369.0,HTTP,1096,"Continuation (sol, ovr) is at 54208.0 Protocol: TCP Length: 54 Info: 52432 > 54208 [FIN, ACK] Seq=1781 A"
+10.42.0.49,52432.0,10.42.0.13,59462.0,TCP,54,52432 > 59462 [ACK] Seq=1 Ack=163 Win=5678 Len=062163 Ack=221 Win=5633 Len=0
+10.42.0.13,50393.0,10.42.0.49,52432.0,TCP,54,"50393 > 52432 [ACK] Seq=496 Ack=1781 Win=65535 Len=0162,Alive], 10.42.0"
+10.42.0.28,80.0,10.42.0.13,51356.0,TCP,155,"80 > 51356 [PSH, ACK] Seq=1 Ack=514 Win=2407 Len=101 [TCP PDU reassembled in 34769]0 TSecr=0"
+10.42.0.28,80.0,10.42.0.13,51395.0,TCP,157,"80 > 51395 [PSH, ACK] Seq=1 Ack=514 Win=2407 Len=103 [TCP PDU reassembled in 35310]b1460 >"
+10.42.0.49,61395.0,99.81.71.200,443.0,TLSv1.2,555,"Application Data, Application Data, Application Data, Application Data. Application Data, Application Data, Application Data"
+10.42.0.49,52432.0,10.42.0.13,59620.0,TCP,54,"52432 > 59620 [FIN, ACK] Seq=1781 Ack=497 Win=5344 Len=062TCP Retransmission],af:172"
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,fe80::804:26cb:5baf:fb18,5353.0,MDNS,194,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210"
+10.42.0.28,80.0,10.42.0.13,51385.0,TCP,54,"80 > 51385 [ACK] Seq=1 Ack=514 Win=2407 Len=0167 [TCP Keep-Alive],0107.152.220.239 A"
+10.42.0.49,52432.0,10.42.0.13,59483.0,TCP,54,[TCP Keep-Alive ACK] 52432 > 59483 [ACK] Seq=1781 Ack=496 Win=5345 Len=0216206 Len=0
+10.42.0.49,61386.0,54.216.1.110,443.0,TLSv1.2,555,"Application Data, Application Datab.b391 Info: Application Data. Application"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local,"
+10.42.0.28,55988.0,34.241.185.170,443.0,TLSv1.2,123,"Application Data, Application Data"
+10.42.0.49,52432.0,10.42.0.13,61929.0,HTTP,1096,Continuationtplink_b3:9b:91b1971dde ACK 49966#1]169291191960919b.elb.eu-west
+10.42.0.13,61866.0,10.42.0.49,52432.0,TCP,54,61866 > 52432 [ACK] Seq=1 Ack=1 Win=65535 Len=01=163=427 Win=1954 Len=0TCP Retrans
+10.42.0.13,51008.0,10.42.0.28,80.0,TCP,54,"51008 > 80 [FIN, ACK] Seq=482 Ack=199 Win=65535 Len=0 [TCP PDU reassembled in 13542], cache flush 1"
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,fe80::804:26cb:5baf:fb18,5353.0,MDNS,194,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS21"
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,fe80::804:26cb:5baf:fb18,5353.0,MDNS,194,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS21"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,270,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_S"
+10.42.0.28,80.0,10.42.0.13,51183.0,TCP,54,"80 > 51183 [ACK] Seq=199 Ack=483 Win=2438 Len=0 [TCP PDU reassembled in 15137], cache flush 10.42."
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,291,"Standard query response 0x0000 TXT, cache flush SRV, cache flush 0 0 52432 Meross_Smart_Plug.local A, cache flush 10.42.0.49 AAAA, cache flush"
+10.42.0.13,51301.0,10.42.0.28,80.0,TCP,54,"51301 > 80 [FIN, ACK] Seq=483 Ack=199 Win=65535 Len=0 [TCP PDU reassembled in 17264]],TCP"
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,305,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush"
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,fe80::804:26cb:5baf:fb18,5353.0,MDNS,194,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210"
+10.42.0.13,58960.0,10.42.0.28,80.0,TCP,54,58960 > 80 [ACK] Seq=482 Ack=552 Win=65535 Len=0 [TCP Dup ACK 32381#1] 58960 > 852
+10.42.0.49,52432.0,10.42.0.13,50342.0,TCP,54,"52432 > 50342 [FIN, ACK] Seq=1781 Ack=497 Win=5344 Len=0162010 Len=0"
+10.42.0.28,55990.0,52.212.130.239,443.0,TLSv1.2,123,Application Data11603 Ack=11165 Win=1816
+10.42.0.49,61388.0,54.216.1.110,443.0,TCP,54,"61388 > 443 [ACK] Seq=138426 Ack=86369 Win=5840 Len=0,TCP Retransmission]281382"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,270,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_S"
+10.42.0.13,5353.0,10.42.0.49,5353.0,MDNS,87,"Standard query 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question"
+10.42.0.49,61385.0,99.81.71.200,443.0,TLSv1.2,555,Application Data.north-america.pool.ntp.org.amazon.pool.ntp.org A 148.245.56.88 A 19
+10.42.0.13,50963.0,10.42.0.49,80.0,TCP,54,50963 > 80 [ACK] Seq=1 Ack=1 Win=65535 Len=0 [TCP Retransmission]5594343992 TSecr=1346=515
+10.42.0.13,51386.0,10.42.0.28,80.0,TCP,54,"51386 > 80 [ACK] Seq=626 Ack=167 Win=65535 Len=0 [TCP Port numbers reused],1062001572 TSecr=0 SACK"
+10.42.0.13,61889.0,10.42.0.49,52432.0,TCP,54,"61889 > 52432 [ACK] Seq=496 Ack=1781 Win=65535 Len=0 1728 [TCP Retransmission]], cache flush"
+10.42.0.49,52432.0,10.42.0.13,62846.0,HTTP,274,"HTTP/1.1 200 OK (application/pairing+tlv8) response 0x232adad5 (application/pairing+tlv8)b3), ovr) is at 5"
+10.42.0.13,50723.0,10.42.0.49,80.0,TCP,54,"50723 > 80 [FIN, ACK] Seq=587 Ack=440 Win=65535 Len=0 [TCP PDU reassembled in 12169]], ACK"
+10.42.0.28,55989.0,34.243.103.189,443.0,TCP,54,"55989 > 443 [ACK] Seq=41703 Ack=26100 Win=2644 Len=0, cache flush 18647 Ack=1"
+10.42.0.13,50487.0,10.42.0.49,52432.0,TCP,54,"50487 > 52432 [FIN, ACK] Seq=496 Ack=1781 Win=65535 Len=066TCP Retransmission]163"
+10.42.0.49,61386.0,54.216.1.110,443.0,TLSv1.2,539,Application Data.amazon.pool.ntp.org (SNI=euw1-device-cloudgateway.iot.i.tLSv1.2 Length: 123 Info: Application
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,fe80::804:26cb:5baf:fb18,5353.0,MDNS,290,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp."
+10.42.0.13,61712.0,10.42.0.49,52432.0,TCP,54,61712 > 52432 [ACK] Seq=496 Ack=1344 Win=65535 Len=01160=62369 Len=01=49
+10.42.0.49,61388.0,54.216.1.110,443.0,TCP,54,"61388 > 443 [ACK] Seq=128826 Ack=80609 Win=5771 Len=0], cache flush 155.13"
+10.42.0.13,59181.0,10.42.0.28,80.0,TCP,78,59181 > 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=64 TSval=3540038846 TSecr=0 SACK_PERM
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local, """
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local,"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,270,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_S"
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,305,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush"
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,305,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush"
+10.42.0.49,61389.0,54.216.1.110,443.0,TCP,54,"61389 > 443 [ACK] Seq=118618 Ack=72935 Win=5111 Len=0]], Server Hello (SNI=TCP Retrans"
+10.42.0.13,50423.0,10.42.0.49,52432.0,TCP,54,"50423 > 52432 [ACK] Seq=414 Ack=302 Win=65535 Len=0162,Alive],64665 Len=0"
+10.42.0.49,61395.0,99.81.71.200,443.0,TCP,54,"61395 > 443 [ACK] Seq=142472 Ack=89068 Win=5702 Len=0, cache flush 179597 Ack="
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,ff02::fb,5353.0,MDNS,325,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT"
+10.42.0.28,55988.0,34.241.185.170,443.0,TCP,54,55988 > 443 [ACK] Seq=31530 Ack=24551 Win=2299 Len=0186TCP PDU reassembled in 4680
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT MSS210-9f39._hap._tcp.local, """
+10.42.0.28,80.0,10.42.0.13,51417.0,TCP,54,"80 > 51417 [ACK] Seq=552 Ack=484 Win=2437 Len=0132 [TCP PDU reassembled in 46963], cache flush 10."
+10.42.0.13,58685.0,10.42.0.49,52432.0,TCP,54,58685 > 52432 [ACK] Seq=496 Ack=1781 Win=65535 Len=0 TCP Retransmission] 1635644682
+10.42.0.13,61987.0,10.42.0.49,52432.0,TCP,54,[TCP Keep-Alive] 61987 > 52432 [ACK] Seq=495 Ack=1781 Win=65535 Len=061TCP Retransmission]
+10.42.0.13,61866.0,10.42.0.49,52432.0,TCP,54,"61866 > 52432 [FIN, ACK] Seq=496 Ack=1781 Win=65535 Len=061TCP Retransmission]61866"
+10.42.0.13,50779.0,10.42.0.28,80.0,TCP,78,[TCP Retransmission] 50779 > 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=64 TSval=2862407442 TSecr=
+10.42.0.49,61388.0,54.216.1.110,443.0,TLSv1.2,555,"Application Data Application Data Application Data Application Data Application Data Application Data Application Data Application Data Application Data Application Data fe80::4ae1:e9ff:fe6e:9f39, Application Data"
+10.42.0.49,5353.0,10.42.0.13,5353.0,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT SRV 0 0 52432 Meross_Smart_Plug."
+10.42.0.49,5353.0,224.0.0.251,5353.0,MDNS,305,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush"

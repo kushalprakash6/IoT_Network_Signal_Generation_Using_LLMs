@@ -1,0 +1,11 @@
+No.,Time,Source,Source port,Destination,Protocol,Destination port,Length,Info,Date time
+1,1132277.26466,10.42.0.13,50315.0,10.42.0.28,TCP,80.0,54,63051  >  80 [ACK] Seq=1 Ack=1 Win=65535 Len=0,0.000944
+2,348908.041112,10.42.0.13,61744.0,10.42.0.28,HTTP/JSON,80.0,363,"POST /config HTTP/1.1 , JSON (application/json)",1.1e-05
+3,367499.376597,fe80,,ff02,MDNS,,325,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush A",
+4,261450.915957,10.42.0.13,52759.0,10.42.0.28,HTTP,80.0,182,POST /app/request?seq=1979292519 HTTP/1.1  (application/x-www-form-urlencoded),9e-06
+5,259871.910855,10.42.0.13,52900.0,10.42.0.28,TCP,80.0,54,52795  >  80 [ACK] Seq=483 Ack=103 Win=65535 Len=0,0.003529
+6,1138873.237712,10.42.0.49,61395.0,99.81.71.200,TLSv1.2,443.0,123,Application Data,0.000155
+7,1139737.700054,10.42.0.49,61395.0,99.81.71.200,TLSv1.2,443.0,555,Application Data,0.109334
+8,323201.348622,10.42.0.13,50342.0,10.42.0.49,TCP,52432.0,54,59432  >  52432 [ACK] Seq=496 Ack=1344 Win=65535 Len=0,0.016483
+9,358506.781133,fe80,,fe80,MDNS,,290,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV",
+10,174340.194111,10.42.0.49,52432.0,10.42.0.13,HTTP,58468.0,491,Continuation,0.002463

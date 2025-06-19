@@ -1,0 +1,68 @@
+Source,Source port,Destination,Destination port,Protocol,Length,Info
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+10.42.0.49,52432.0,10.42.0.13,62899.0,HTTP,274,HTTP/1.
+RaspberryPiF_cc:04:07,123.0,MerossTechno_6e:9f:39,61395.0,ARP,42,Who
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,50408.0,HTTP,491,Contin
+10.42.0.28,80.0,10.42.0.13,65059.0,TCP,156,80 > 6
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,EAPOL,113,Key (Group Message 2 of 2) (Group
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,ff02::fb,5353.0,MDNS,325,Standard
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+RaspberryPiF_cc:04:07,123.0,MerossTechno_6e:9f:39,61380.0,NTP,90,N
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+MerossTechno_6e:9f:39,5353.0,224.0.0.251,5353.0,MDNS,291,Standard query
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,EAPOL,113,"Key (Group Message 2 of 2), ov"
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,58278.0,TCP,54,[
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,50510.0,HTTP,274,HTTP
+fe80::4ae1:e9ff:fe6e:9f39,5353.0,ff02::fb,5353.0,MDNS,325,Standard
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,61838.0,TCP,58,
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+MerossTechno_6e:9f:39,5353.0,10.42.0.13,5353.0,MDNS,174,Standard query
+RaspberryPiF_cc:04:07,nan,TPLink_b3:9b:91,nan,ARP,42,Who has 10.42.0.28? Tell
+RaspberryPiF_cc:04:07,nan,MerossTechno_6e:9f:39,nan,ARP,42,Who has 10.42.0.49
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,50961.0,TCP,54,[
+MerossTechno_6e:9f:39,5353.0,224.0.0.251,5353.0,MDNS,305,Standard
+MerossTechno_6e:9f:39,5353.0,TPLink_b3:9b:91,5353.0,MDNS,174,Standard
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,62392.0,HTTP,274,HTTP
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+10.42.0.28,80.0,10.42.0.13,59627.0,TCP,155,80 > 5
+10.42.0.49,52432.0,10.42.0.13,61928.0,TCP,54,[TCP Keep
+MerossTechno_6e:9f:39,5353.0,224.0.0.251,5353.0,MDNS,305,Standard query
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+MerossTechno_6e:9f:39,5353.0,RaspberryPiF_cc:04:07,5353.0,ARP,42,Who
+MerossTechno_6e:9f:39,5353.0,224.0.0.251,5353.0,MDNS,305,Standard query
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+RaspberryPiF_cc:04:07,123.0,MerossTechno_6e:9f:39,61380.0,NTP,90,N
+10.42.0.13,59699.0,10.42.0.49,52432.0,TCP,54,596
+MerossTechno_6e:9f:39,5353.0,RaspberryPiF_cc:04:07,5353.0,ARP,42,Who
+10.42.0.13,61884.0,10.42.0.49,52432.0,TCP,54,618
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+10.42.0.13,50761.0,10.42.0.49,52432.0,TCP,54,[TCP Keep
+RaspberryPiF_cc:04:07,123.0,TPLink_b3:9b:91,62390.0,EAPOL,113,Key
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,59771.0,TCP,54,
+10.42.0.28,80.0,10.42.0.13,52644.0,TCP,58,80 > 52
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,EAPOL,113,Key (Group Message 2 of 2) 0
+MerossTechno_6e:9f:39,5353.0,224.0.0.251,5353.0,MDNS,291,Standard
+MerossTechno_6e:9f:39,5353.0,10.42.0.13,5353.0,MDNS,262,Standard query
+10.42.0.49,52432.0,10.42.0.13,61704.0,HTTP,274,HTTP/1.
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,60914.0,TCP,54,
+10.42.0.13,51430.0,10.42.0.49,80.0,TCP,54,51430 >
+10.42.0.13,52650.0,10.42.0.28,80.0,TCP,54,52650 >
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,50832.0,TCP,54,[
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+RaspberryPiF_cc:04:07,123.0,MerossTechno_6e:9f:39,61380.0,NTP,90,N
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,62029.0,HTTP,491,Contin
+MerossTechno_6e:9f:39,52432.0,10.42.0.13,58465.0,TCP,54,
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+10.42.0.13,51097.0,10.42.0.28,80.0,TCP,407,51097
+10.42.0.13,59759.0,10.42.0.49,52432.0,TCP,54,597
+MerossTechno_6e:9f:39,5353.0,MerossTechno_6e:9f:39,5353.0,MDNS,87,
+MerossTechno_6e:9f:39,5353.0,224.0.0.251,5353.0,MDNS,305,Standard query
+RaspberryPiF_cc:04:07,123.0,MerossTechno_6e:9f:39,61380.0,NTP,90,N
+TPLink_b3:9b:91,nan,RaspberryPiF_cc:04:07,nan,ARP,42,10.42.0.28 is at 0
+10.42.0.13,62473.0,10.42.0.49,52432.0,TCP,54,624
+MerossTechno_6e:9f:39,5353.0,MerossTechno_6e:9f:39,5353.0,MDNS,87,

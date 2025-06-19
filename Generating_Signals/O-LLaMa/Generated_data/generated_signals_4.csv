@@ -1,0 +1,6 @@
+Source,Source port,Destination,Destination port,Protocol,Length,Info
+10.42.0.49,61385.0,99.81.71.200,443.0,TCP,54,61385 > 443 [ACK] Seq=15662 Ack=10334 Win=4589 Len=01180 [TCP PDU reassembled in 6116]
+fe80::4ae1:e9ff:fe6e:9f39,nan,fe80::804:26cb:5baf:fb18,nan,ICMPv6,86,Neighbor Solicitation for fe80::804:26cb:5baf:fb18 from 48:e1:e9:6e:9f:39 A 48:e1:e9:6
+10.42.0.28,58272.0,54.170.92.104,443.0,TLSv1.2,299,"Application Data (SNI=euw1-device-cloudgateway.iot.i.tplinknbu.com), Application Data Application Data Application Data Application Data 1 (SNI=euw1-device"
+10.42.0.13,59900.0,10.42.0.49,52432.0,TCP,54,"59900 > 52432 [ACK] Seq=497 Ack=1782 Win=65535 Len=0162, cache flush 99.81.71.2"
+10.42.0.13,51480.0,10.42.0.28,80.0,TCP,54,"51480 > 80 [ACK] Seq=1 Ack=1 Win=65535 Len=0,TCP Keep-Alive ACK]627 Ack=167 Win=65535 Len=0"

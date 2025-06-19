@@ -1,0 +1,11 @@
+Source,Source port,Destination,Destination port,Protocol,Length,Info
+,,,,NTP,90,"NTP Version 4, server Hello Done 36340 Meross_Smart_Plug.local, ""QM"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_Smart_Plug.local TXT A 10.42.0.49 AAAA fe80::4ae1:e9ff:fe6e:9f39 A 10.42.0.49 AAAA fe80::804:26cb:5baf:fb18 A 10.42.0.49 AAAA fe80::4ae1:e9ff:fe6e:9f39 NSEC= MSS210-9"
+,,,,NTP,90,"NTP Version 4, server Hello Done70, server Hello Done167.215 Ack195.101960 Win=65535"
+,,,,NTP,1445,Standard query response 0x67b1 A 2.amazon.pool.ntp.org A 55.138.130.239 A 54.39.23.64 A 85.214.83.151 A 194.50.19.117 A=89.66.35.254 A 188.34.165.268 A 30.353.248.250 A 45.61.187.39 A 176.9.157.155
+,,,,NTP,90,"NTP Version 4, server Hello Done, server Hello Done NTP Version 4, server Hello Done] 53.0, server Hello Donea52.212.130.239:443.0, Protocol: TLSv1.2, Length: 123, Info: Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data"
+,,,,,,
+,,,,,,
+,,,,NTP,90,"NTP Version 4, server Hello Done1, server Hello Done. NTP Version 4, server Hello Done.67.72.50:443.0, Protocol: TCP, Length: 1234, Info: NTP Version 4, server Hello Done] 64117 Len=1180 [TCP PDU reassembled in 64933] Seq=47963 Ack=29208 Win=65535 Len=1180 [TCP PDU reassembled in 5848] Seq=17985  >  64963 Len=1180 [TCP PDU reassembled in 6055]  NTP Version 4"
+,,,,,,
+,,,,,,
+,,,,,,

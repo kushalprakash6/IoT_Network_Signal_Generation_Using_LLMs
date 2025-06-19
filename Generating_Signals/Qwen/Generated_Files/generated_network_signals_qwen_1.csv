@@ -1,0 +1,11 @@
+No.,Time,Source,Source port,Destination,Destination port,Protocol,Length,Info,Date time
+1,158273.472014,10.42.0.49,5353,224.0.0.251,5353,MDNS,305,"Standard query response 0x0000 PTR MSS210-9f39._hap._tcp.local SRV, cache flush 0 0 52432 Meross_Smart_Plug.local TXT, cache flush A,",
+2,1139313.087435,10.42.0.49,5353,10.42.0.13,5353,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT",0.009454
+3,1143461.229151,10.42.0.49,5353,10.42.0.13,5353,MDNS,270,"Standard query response 0x0000 PTR _hap._tcp.local, ""QU"" question PTR MSS210-9f39._hap._tcp.local SRV 0 0 52432 Meross_Smart_Pl",
+4,234203.573617,10.42.0.49,5353,10.42.0.13,5353,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT",0.000415
+5,176473.742488,10.42.0.28,80,10.42.0.13,57287,TCP,155,"80  >  57499 [PSH, ACK] Seq=1 Ack=483 Win=2438 Len=102 [TCP PDU reassembled in 18069]",
+6,422083.666829,10.42.0.49,5353,10.42.0.13,5353,MDNS,174,"Standard query response 0x0000 TXT MSS210-9f39._hap._tcp.local, ""QU"" question TXT",0.006086
+7,176993.35095,54.170.92.104,443,10.42.0.28,58272,TLSv1.2,363,Application Data,0.036981
+8,354433.687239,10.42.0.13,61723,10.42.0.49,52432,TCP,54,61752  >  52432 [ACK] Seq=414 Ack=302 Win=65535 Len=0,0.001466
+9,263134.459495,10.42.0.13,59492,10.42.0.49,52432,TCP,54,59784  >  52432 [ACK] Seq=497 Ack=1782 Win=65535 Len=0,0.006904
+10,357502.026748,10.42.0.13,61819,10.42.0.49,52432,TCP,54,"61808  >  52432 [FIN, ACK] Seq=496 Ack=1781 Win=65535 Len=0",1.579461
