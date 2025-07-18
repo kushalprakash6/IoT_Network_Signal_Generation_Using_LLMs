@@ -1,10 +1,8 @@
 # IoT‑Network‑Signal‑Generation using LLMs
 
-<p align="center">
-  <img src="Images/banner.png" alt="IoT banner" width="600"/>
-</p>
 
-> **Synthetic, yet realistic.** This repository shows how Large Language Models (LLMs) can be coaxed into **speaking the language of a network packet‑sniffer**, producing traffic that mirrors real‑world IoT deployments.  The resulting traces can be used to stress‑test Intrusion‑Detection Systems (IDS), benchmark anomaly‑detectors, or augment scarce training data.
+
+> **Synthetic, yet realistic.** This repository shows how Large Language Models (LLMs) can be coaxed into **speaking the language of a network packet**, producing traffic that mirrors real‑world IoT deployments.  The resulting traces can be used to stress‑test Intrusion‑Detection Systems (IDS), benchmark anomaly‑detectors, or augment scarce training data.
 
 ---
 
@@ -116,10 +114,10 @@ pip install -r requirements.txt  # coming soon
 
 ```mermaid
 graph LR
-    A[Raw traffic captures (.pcap / logs)] --> B[Pre‑processing\nFeature extraction]
-    B --> C[Fine‑tune LLM]
-    C --> D[Generate synthetic traffic]
-    D --> E[IDS / ML evaluation]
+    A["Raw traffic captures (.pcap / logs)"] --> B["Pre-processing and Feature extraction"]
+    B --> C["Fine-tune LLM"]
+    C --> D["Generate synthetic traffic"]
+    D --> E["IDS / ML evaluation"]
     E -->|metrics, feedback| C
 ```
 
@@ -140,12 +138,17 @@ graph LR
 
 \## Results & Benchmarks
 
-| Dataset   | Real TPR | Synthetic TPR | Δ (pts) |
-| --------- | -------: | ------------: | ------: |
-| UNSW‑NB15 |    0.94  |         0.92  |   ‑0.02 |
-| TON‑IoT   |    0.88  |         0.87  |   ‑0.01 |
 
-> The synthetic traces retain >97 % detection efficacy while offering complete anonymisation.  See `Images/results.pdf` for full plots.
+| Training Set           | Accuracy | F1 (Attack) | ROC AUC | AP     | Notes           |
+|------------------------|----------|-------------|---------|--------|------------------|
+| Real Data              | 87.27%   | 0.6234      | 0.7925  | 0.6283 | Baseline         |
+| Synthetic (Qwen)       | 95.36%   | 0.8985      | 0.9447  | 0.8836 | Best synthetic   |
+| Synthetic (Open-LLaMA) | 62.85%   | 0.3770      | 0.6921  | 0.5332 | Poor structure   |
+| Synthetic (IEEE DataPort) | 91.74% | 0.8357      | 0.9496  | 0.7084 | Stable benchmark |
+| Combined (Qwen + IEEE) | 92.38%   | 0.8473      | 0.9584  | 0.7729 | Balanced mix     |
+
+
+> See `Docs/ModellingNetworkWithAI_Kushal_Prakash_1429800_ThesisReport.pdf` for full plots.
 
 ---
 
